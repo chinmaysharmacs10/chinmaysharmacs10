@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaysharmacs10&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaysharmacs10" /> </p>
 
-- 🔭 I’m currently a MS in Computer Science student at the [University of California San Diego](https://www.linkedin.com/school/ucsandiego/)
+- 🔭 I’m currently a **MS in Computer Science student** at the [**University of California San Diego**](https://www.linkedin.com/school/ucsandiego/)
 
 - 🤝 I’m looking for help with **summer 2024 internships**
 
@@ -11,7 +11,10 @@
 
 - 📫 How to reach me **c1sharma@ucsd.edu**
 
-- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/10efQuQKs8BLg1pZkaKufHLDyvIi4RM4E/view?usp=sharing)
+- 📄 Know about my experiences through my [**resume**](https://drive.google.com/file/d/10efQuQKs8BLg1pZkaKufHLDyvIi4RM4E/view?usp=sharing)
+
+<h3 align="left">Checkout my projects:</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
