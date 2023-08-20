@@ -14,15 +14,16 @@
 - 📄 Know about my experiences through my [**resume**](https://drive.google.com/file/d/10efQuQKs8BLg1pZkaKufHLDyvIi4RM4E/view?usp=sharing)
 
 <h3 align="left">Checkout my projects:</h3>
-- [University Predictor](https://github.com/chinmaysharmacs10/University_Recommender): A web app that recommends university based on students academic credential.
 
-- [Data Scientist's Salary Predictor](https://github.com/chinmaysharmacs10/Data_Scientist_Salary_Predictor): An API that estimates the salary a Data Scientist should expect based on his profile and the company.
+- 👨‍🎓 [University Predictor](https://github.com/chinmaysharmacs10/University_Recommender): A web app that recommends university based on students academic credential.
+
+- 🤑 [Data Scientist's Salary Predictor ](https://github.com/chinmaysharmacs10/Data_Scientist_Salary_Predictor): An API that estimates the salary a Data Scientist should expect based on his profile and the company.
   
-- [Articulation Gap correction using Generative AI](https://github.com/chinmaysharmacs10/Articulation_Gap_Gen_AI): A ChatGPT powered API that solves the porblem of articulation gap in e-commerce search queries.
+- 🙌 [Articulation Gap correction using Generative AI](https://github.com/chinmaysharmacs10/Articulation_Gap_Gen_AI): A ChatGPT powered API that solves the porblem of articulation gap in e-commerce search queries.
   
-- [The Fashion Capital](https://github.com/chinmaysharmacs10/The_Fashion_Capital): A website that displays ongoing and upcoming T-shirt fashion trends to retailers so that they could efficiently build their stock for the coming weeks.
+- 👕 [The Fashion Capital](https://github.com/chinmaysharmacs10/The_Fashion_Capital): A website that displays ongoing and upcoming T-shirt fashion trends to retailers so that they could efficiently build their stock for the coming weeks.
   
-- [Design Patterns in Java](https://github.com/chinmaysharmacs10/DesignPatternsInJava): Implementation of all important Java Design Patterns bundled in a repo!
+- 💻 [Design Patterns in Java](https://github.com/chinmaysharmacs10/DesignPatternsInJava): Implementation of all important Java Design Patterns bundled in a repo!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
