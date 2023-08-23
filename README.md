@@ -19,7 +19,7 @@
   
 - 👕 [The Fashion Capital](https://github.com/chinmaysharmacs10/The_Fashion_Capital): A website that displays ongoing and upcoming T-shirt fashion trends to retailers so that they could efficiently build their stock for the coming weeks.
 
-- 👨‍🎓 [University Predictor](https://github.com/chinmaysharmacs10/University_Recommender): A web app that recommends university based on student's academic credentials.
+- 👨‍🎓 [University Recommender](https://github.com/chinmaysharmacs10/University_Recommender): A web app that recommends university based on student's academic credentials.
 
 - 🤑 [Data Scientist's Salary Predictor ](https://github.com/chinmaysharmacs10/Data_Scientist_Salary_Predictor): An API that estimates the salary a Data Scientist should expect based on his profile and the company.
   
