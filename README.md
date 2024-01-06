@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **c1sharma@ucsd.edu**
 
-- 📄 Know about my experiences through my [**resume**](https://drive.google.com/file/d/10efQuQKs8BLg1pZkaKufHLDyvIi4RM4E/view?usp=sharing)
+- 📄 Know about my experiences through my [**resume**](https://drive.google.com/file/d/12RXFUoYeMDwWbnPkDzjOGxyYuWFI8ZOG/view?usp=sharing)
 
 <h3 align="left">Checkout my projects:</h3>
 
